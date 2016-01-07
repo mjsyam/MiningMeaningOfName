@@ -5,7 +5,7 @@ import java.util.Iterator;
 
 public class MainCode {
 	public static void main(String[] args) {
-		String nama = "muhammad munir";
+		String nama = "syamsul mujahidin";
 		String [] tempPisah = nama.split(" ");
 		String namaPertama = "", namaKedua = "", namaKetiga = "";	
 		
